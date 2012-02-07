@@ -5,6 +5,7 @@
 //  Created by Robin Brandt on 2012-02-07.
 //
 // En kommentar
+// Kommentar 2
 
 #import "AppDelegate.h"
 
