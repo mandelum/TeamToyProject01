@@ -4,12 +4,16 @@
 //  MERA KOMMENTARER
 //  Eqweqweqwe
 //  Created by Robin Brandt on 2012-02-07.
+<<<<<<< HEAD
 // En till kommentar
 // En kommentar
 // Kommentar 2
 // Kommentar test 3 testar med GitHub app ännu mera
 //  2weqww sdfsdfsdf sdf sd fsd fsd fsdf  asdasdasd
 
+=======
+//
+>>>>>>> parent of e0f7a1b... A comment
 
 #import "AppDelegate.h"
 
