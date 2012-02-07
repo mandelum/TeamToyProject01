@@ -6,6 +6,7 @@
 // En till kommentar
 // En kommentar
 // Kommentar 2
+// Kommentar test 3
 
 #import "AppDelegate.h"
 
