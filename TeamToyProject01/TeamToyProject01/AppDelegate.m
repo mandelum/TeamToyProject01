@@ -1,11 +1,10 @@
 //
 //  AppDelegate.m
 //  TeamToyProject01
-//
+//  MERA KOMMENTARER
+//  Eqweqweqwe
 //  Created by Robin Brandt on 2012-02-07.
-// En till kommentar
-// En kommentar
-// Kommentar 2
+//  2weqww
 
 #import "AppDelegate.h"
 
