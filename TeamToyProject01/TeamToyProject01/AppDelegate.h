@@ -11,8 +11,7 @@
 
 
 // adadasjdashjdahsjhasjdhavsdhasdgashdgaghsd
-// asdasdasdasdgasgdasfgda
-// dsdfdfdfsdfsdfsdfsdfsdfsdfs
+// asdasdasdasdgasgdasfgdaghdhdg
 
 @property (strong, nonatomic) UIWindow *window;
 
